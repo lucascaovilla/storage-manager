@@ -1,4 +1,4 @@
-<h1 align="center"> Vertical Storage </h1>
+<h1 align="center"> Storage manager </h1>
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-UNDER%20DEVELOPMENT-darkgreen">
 <h3>A system developed for Arduino UNO R3 focused on delivering resources to it's operator as requested. Specially focused on industrial applications.</h3>
 <h4 align="center">:construction:  In build project  :construction:</h4>
